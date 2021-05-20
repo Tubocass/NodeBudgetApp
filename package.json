@@ -1,0 +1,22 @@
+{
+  "name": "nodebudgetapp",
+  "version": "0.0.1",
+  "description": "Budget app using Node backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tubocass/NodeBudgetApp.git"
+  },
+  "author": "Tubocass",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tubocass/NodeBudgetApp/issues"
+  },
+  "homepage": "https://github.com/Tubocass/NodeBudgetApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
